@@ -2059,7 +2059,6 @@ select::-ms-expand {
     height: 16px;
     -webkit-animation: spin 1s linear infinite; /* For WebKit-based browsers */
     animation: spin 1s linear infinite;        /* Standard property for modern browsers */
-    border: 1px solid #eee;
     border-left-color: transparent;
 }
 
